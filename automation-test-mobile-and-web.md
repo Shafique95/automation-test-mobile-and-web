@@ -1,5 +1,3 @@
-# automation-test-mobile-and-web
-That's excellent! Since you're already familiar with **Java, Python, JavaScript, Dart, and PHP**, you're in a great position to learn **mobile automation testing for hybrid apps** (like Ionic, React Native, or Flutter apps).
 
 Below is a **dedicated roadmap focused on mobile automation testing for hybrid apps**, showing **tool selection, setup steps, and learning priorities** based on your skills.
 
